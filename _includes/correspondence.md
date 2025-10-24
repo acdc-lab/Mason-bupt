@@ -7,7 +7,7 @@ Please read this page before asking for source code/pre-trained models/data, etc
 -->
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Email: majunn@bupt.edu.cn</autocolor></li>
+  <li><autocolor>Email: majun@bupt.edu.cn</autocolor></li>
   <li><autocolor>Address: ACDC Group,KeyLaboratoryofTrustworthy Distributed Computing and Service, Ministry of Education, School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications, China</autocolor></li>
 </ul>
 <!-- 
