@@ -14,9 +14,8 @@ Jun Ma(马俊) received his B.S. degree from Beijing University of Posts and Tel
 
 ## News
 
+- **[2025-11]** "CAR-Net: Integrating Causal Reasoning via Hierarchical Cross-Modal Fusion for Driver Intention Prediction" will be submitted to CVPR2026.
 
-
-## Honors
 
 
 
