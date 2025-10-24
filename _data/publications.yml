@@ -1,7 +1,7 @@
 main:
 
   - title: "CAR-Net: Integrating Causal Reasoning via Hierarchical Cross-Modal Fusion for Driver Intention Prediction"
-    image: ./assets/img/ca2529d1d2797bb9bb56010b74a3d3e3.jpg
+    image: ./assets/img/ca2529d1d2797bb9bb56010b74a3d3e3.png
     conference: Coming Soon, 2026
 
   - title: "Eliminating Propagation Delay: Attention-Based Spatial Temporal Fusion Graph Convolution Network for Traffic Flow Prediction"
