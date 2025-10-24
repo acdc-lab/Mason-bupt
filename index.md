@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Jun Ma(马俊) received his B.S. degree from Beijing University of Posts and Telecommunications, Beijing, China in 2024. He is currently pursuing a M.S. degree in the ACDC Group, Key Laboratory of Trustworthy Distributed Computing and Service, Beijing University of Posts and Telecommunications, under the supervision of Prof. [Jinpeng Chen]([https://scholar.google.com/citations?user=iS27HZ8AAAAJ&hl=zh-CN]).
+Jun Ma(马俊) received his B.S. degree from Beijing University of Posts and Telecommunications, Beijing, China in 2024. He is currently pursuing a M.S. degree in the ACDC Group, Key Laboratory of Trustworthy Distributed Computing and Service, Beijing University of Posts and Telecommunications, under the supervision of Prof. [Jinpeng Chen](https://scholar.google.com/citations?hl=zh-CN&user=nbyHGnsAAAAJ).
 
 ## Research Interests
 
