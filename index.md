@@ -20,9 +20,6 @@ Jun Ma(马俊) received his B.S. degree from Beijing University of Posts and Tel
 
 
 
-{% include_relative _includes/publications.md %}
 
-{% comment %}
-{% include_relative _includes/services.md %}
 {% endcomment %}
 
