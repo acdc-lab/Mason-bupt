@@ -1,16 +1,11 @@
 main:
 
   - title: "CAR-Net: Integrating Causal Reasoning via Hierarchical Cross-Modal Fusion for Driver Intention Prediction"
-    image: ./assets/img/main(1).pdf
+    image: ./assets/img/ca2529d1d2797bb9bb56010b74a3d3e3.jpg
     conference: Coming Soon, 2026
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: "Eliminating Propagation Delay: Attention-Based Spatial Temporal Fusion Graph Convolution Network for Traffic Flow Prediction"
+    authors: Chen Jinpeng,Yu Ziyu,Wang Tao,Ma Jun,Gao Hongbo,Wang Senzhang,Zhang, Zufeng,Wei Kaimin
+    conference_short: TAAS
+    conference: ACM Transactions on Autonomous and Adaptive Systems, 2025.
     image: ./assets/img/teaser_example.png
