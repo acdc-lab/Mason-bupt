@@ -7,5 +7,5 @@ main:
   - title: "Eliminating Propagation Delay: Attention-Based Spatial Temporal Fusion Graph Convolution Network for Traffic Flow Prediction"
     authors: Chen Jinpeng, Yu Ziyu, Wang Tao, Ma Jun, Gao Hongbo, Wang Senzhang, Zhang Zufeng, Wei Kaimin
     conference_short: TAAS
-    conference: ACM Transactions on Autonomous and Adaptive Systems, 2025
+    conference: Submitted to ACM Transactions on Autonomous and Adaptive Systems, 2025
     image: ./assets/img/54f03e48ed9723e572477f32f1dca15c.png
