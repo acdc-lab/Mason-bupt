@@ -1,5 +1,13 @@
 main:
 
+  - title: "LISA: Language-guided Interference-aware Spatial-Frequency Attention for Driver Gaze Estimation"
+    authors: <strong>Jun Ma</strong>, Zhenye Yang, Ruichen Zhou, Pei Zhang, Huan Li, Jinpeng Chen
+    conference_short: IJCAI
+    conference: Accepted by the 35th International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2026
+    image: ./assets/img/gaze.png
+    pdf: https://arxiv.org/abs/2605.17287
+    notes: Accepted
+
   - title: "CAR-Net: Integrating Causal Reasoning via Hierarchical Cross-Modal Fusion for Driver Intention Prediction"
     image: ./assets/img/ca2529d1d2797bb9bb56010b74a3d3e3.png
     conference: Coming Soon, 2026
